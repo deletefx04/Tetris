@@ -19,6 +19,7 @@
   },
   "name":"Tetris",
   "resources":[
+    {"id":{"name":"Obj_block2","path":"objects/Obj_block2/Obj_block2.yy",},},
     {"id":{"name":"Obj_bolck","path":"objects/Obj_bolck/Obj_bolck.yy",},},
     {"id":{"name":"Obj_end","path":"objects/Obj_end/Obj_end.yy",},},
     {"id":{"name":"Obj_wall","path":"objects/Obj_wall/Obj_wall.yy",},},

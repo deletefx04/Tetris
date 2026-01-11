@@ -19,4 +19,4 @@ if (keyboard_check(vk_down)) {
 }
 if (keyboard_check(ord("S"))){
     y += 62;
-}}
+}};
